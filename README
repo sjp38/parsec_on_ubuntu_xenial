@@ -1,3 +1,10 @@
+This repository is deprecated.  Please use
+[parsec3_on_ubuntu](https://github.com/sjp38/parsec3_on_ubuntu), which
+officially supports multiple Ubuntu distributions, instead.
+
+----
+
+
 This repository is a toolbox for parsec 3.0 benchmark installation and
 execution on Ubuntu Xenial (16.04) and Bionic (18.04).
 
